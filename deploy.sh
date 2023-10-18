@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /public_html
+cd public_html
 git pull 
